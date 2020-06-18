@@ -22,6 +22,11 @@ summaryLength = 30
     url = "/docs/"
     weight = 2
 
+[[menu.main]]
+    name = "Github"
+    url = "https://github.com/ako-deno/ako"
+    weight = 2
+
 [params]
   google_analytics_id=""
   homepage_button_link = '/docs'
